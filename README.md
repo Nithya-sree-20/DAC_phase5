@@ -25,11 +25,13 @@ Standard Deviation Calculation: Determine the variation or dispersion of data po
 4.Innovative Approaches 4.1 Advanced Visualization Techniques: Dynamic Comparison Charts: • Interactive charts enabling users to compare mean values and standard deviations dynamically. • Users can select specific countries or time periods for focused analysis.
 
   Regression Analysis:
+  
 • Implement regression models to identify trends over time, providing insights into the trajectory of COVID-19 cases and deaths. • This aids in forecasting and trend prediction.
 
 4.2 Predictive Analytics:
 
   Machine Learning Models:
+  
 • Utilize machine learning algorithms for predictive modeling. • Algorithms like Random Forest or LSTM can forecast future mean values and standard deviations based on historical data, providing valuable insights for proactive planning.
 
 5.Insights and Decision Support Through meticulous mean and standard deviation analysis, coupled with innovative techniques, we aim to extract actionable insights:
